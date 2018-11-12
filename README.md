@@ -1,5 +1,5 @@
-Grauwoelfchen's Atreus Layout
-=============================
+Grauwoelfchen's dvorak layout for AtrEus
+========================================
 
 
 ```zsh
